@@ -20,4 +20,11 @@ Question 5: How did you make certain the code and software application were func
 
 Response 5: I did that with periodical testing and a dependency check both before and after refactoring the code.
 
-Question 6:
+Question 6: What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+
+Response 6: Using the textbook and previous knowledge of java coding practices helped me within my assignments and projects. Keeping security as one of the centerpoints in future assignments is something I will be considering.
+
+Question 7: Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+
+Response 7: I will show them my understanding of the crucial importance of software security and how it not only protects the program, but also the user and client company from the negative implications of unauthorized access.
+
